@@ -1,6 +1,6 @@
 /**
  * @author huangzebin
- * @description
+ * @description 进制转换（6进制）
  * @createDate: 2021/6/29 12:33
  */
 public class ExcelSheetColumnTitle_168 {
